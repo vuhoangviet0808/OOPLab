@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaBasics/JavaBasics.iml" filepath="$PROJECT_DIR$/JavaBasics/JavaBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lab 1.iml" filepath="$PROJECT_DIR$/.idea/Lab 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/addMatrixProject/addMatrixProject.iml" filepath="$PROJECT_DIR$/addMatrixProject/addMatrixProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/displaydaysProject/displaydaysProject.iml" filepath="$PROJECT_DIR$/displaydaysProject/displaydaysProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sortProject/sortProject.iml" filepath="$PROJECT_DIR$/sortProject/sortProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/triangleStarProject/triangleStarProject.iml" filepath="$PROJECT_DIR$/triangleStarProject/triangleStarProject.iml" />
+    </modules>
+  </component>
+</project>

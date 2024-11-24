@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lab 1/JavaBasics/JavaBasics.iml" filepath="$PROJECT_DIR$/Lab 1/JavaBasics/JavaBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab2/Lab2.iml" filepath="$PROJECT_DIR$/Lab2/Lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OtherProjects.iml" filepath="$PROJECT_DIR$/.idea/OtherProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 1/addMatrixProject/addMatrixProject.iml" filepath="$PROJECT_DIR$/Lab 1/addMatrixProject/addMatrixProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 1/displaydaysProject/displaydaysProject.iml" filepath="$PROJECT_DIR$/Lab 1/displaydaysProject/displaydaysProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 1/sortProject/sortProject.iml" filepath="$PROJECT_DIR$/Lab 1/sortProject/sortProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 1/triangleStarProject/triangleStarProject.iml" filepath="$PROJECT_DIR$/Lab 1/triangleStarProject/triangleStarProject.iml" />
+    </modules>
+  </component>
+</project>
